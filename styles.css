@@ -25,3 +25,8 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+.squareDancer{
+  border:10px solid coral;
+  border-radius:0px;
+  position:absolute;
+}
